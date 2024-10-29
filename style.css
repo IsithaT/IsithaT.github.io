@@ -2,11 +2,12 @@
     display: flex;
     justify-content: space-around;
 }
-.nav-elem {
+.no-style-list {
     text-decoration: none;
     list-style: none;
 }
-.nav-link {
+
+.link {
     text-decoration: none;
     color: black;
 }
@@ -32,4 +33,27 @@
     align-items: center;
     justify-content: center;
     height: 500px;
+}
+
+
+.quick-links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: antiquewhite;
+    height: 100px;
+}
+
+.quick-link {
+    width: 100px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+box-icon {
+    margin: 5px;
 }
