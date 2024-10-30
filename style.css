@@ -58,7 +58,7 @@ box-icon {
     margin: 5px;
 }
 
-.project, .education {
+.project, .education, .about {
     background-color: antiquewhite;
     display: flex;
     flex-direction: column;
