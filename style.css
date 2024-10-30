@@ -58,7 +58,7 @@ box-icon {
     margin: 5px;
 }
 
-.project, .education, .about {
+.project, .education, .about, .hobby {
     background-color: antiquewhite;
     display: flex;
     flex-direction: column;
@@ -71,7 +71,7 @@ box-icon {
     max-width: 740px;
 }
 
-.project-img {
+.project-img, .bike-img {
     width: 700px;
     border-radius: 10px;
     margin: 20px;
