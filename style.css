@@ -58,7 +58,7 @@ box-icon {
     margin: 5px;
 }
 
-.project {
+.project, .education {
     background-color: antiquewhite;
     display: flex;
     flex-direction: column;
@@ -75,4 +75,9 @@ box-icon {
     width: 700px;
     border-radius: 10px;
     margin: 20px;
+}
+.list-content {
+    align-items: center;
+    text-align: center;
+
 }
